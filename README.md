@@ -1,3 +1,17 @@
+## Developer Notes
+
+- This project follow Clean Architecture with three layers (Domain, Posts, App)
+- The repository pattern is used as the communication method between the domain and feature modules.
+- Dagger2 is used for Dependency Injection across all modules.
+- Kotlin Coroutines are used for multithreading
+- AAC Room is used for caching.
+- Paging3 is used for pagination.
+- Kotlinx Serialization is used for decoding the Json file.
+- AAC ViewModels, Fragments and Navigation Components are used in the UI layer.
+
+All the above is an overkill for the purposes of such a simple task, however, in any sort of real project they are essential to ensure maintainability and scalability.
+
+
 ## Haraj Challenge
 Welcome to Haraj challenge!
 

@@ -1,2 +1,4 @@
 include ':app'
 rootProject.name = "HarajTask"
+include ':domain'
+include ':posts'

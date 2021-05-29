@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">HarajTask</string>
+
+    <string name="cd_username_icon">Username Icon</string>
+    <string name="cd_thumbnail">Thumbnail</string>
+    <string name="cd_comments_count_icon">Comments Count Icon</string>
+    <string name="cd_comments_count_format">(%1$d)</string>
+    <string name="cd_error_image">Error image</string>
+    <string name="cd_city_icon">City Icon</string>
+
+    <string name="something_went_wrong">Something went wrong!</string>
+
+    <string name="thumb_image_transition">thumbnailImageTransition_%1$d</string>
+    <string name="thumb_title_transition">thumbnailTitleTransition_%1$d</string>
+    <string name="thumb_city_transition">thumbnailCityTransition_%1$d</string>
+    <string name="thumb_city_icon_transition">thumbnailCityIconTransition_%1$d</string>
+    <string name="thumb_username_transition">thumbnailUsernameTransition_%1$d</string>
+    <string name="thumb_username_icon_transition">thumbnailUsernameIconTransition_%1$d</string>
+    <string name="post_deleted_or_expired">This post is either deleted or has expired!</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="coming_soon">Coming soon!</string>
 </resources>
